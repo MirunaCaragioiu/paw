@@ -1,0 +1,14 @@
+marfuri
+250
+14
+materii prime
+321
+25
+ambalaje
+125
+10
+produse finite
+325
+12asd
+123
+2
